@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+}
+.image img{
+    text-align: left;
+    width: 200px;
+    height: 230px;
+}
+
+.biodata ul li{
+    list-style-type: none;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
